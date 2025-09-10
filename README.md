@@ -40,8 +40,12 @@ The dashboard includes:
 
 ---
 
-## 📊 Sample Dashboard Views
-*(Add screenshots of your Power BI dashboard here for better presentation)*
+## 📊 Dashboard Preview
+Here’s a preview of the Power BI dashboard interface:
+
+![Dashboard Preview](Interface.png)
+
+> *(Replace `images/dashboard_preview.png` with the actual path to your exported screenshot)*  
 
 ---
 
@@ -49,4 +53,3 @@ The dashboard includes:
 - Add forecasting models for future sales prediction.  
 - Integrate real-time data sources.  
 - Enhance customer segmentation using RFM analysis.  
-
