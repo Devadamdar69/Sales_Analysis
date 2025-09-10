@@ -45,7 +45,6 @@ Here’s a preview of the Power BI dashboard interface:
 
 ![Dashboard Preview](Interface.png)
 
-> *(Replace `images/dashboard_preview.png` with the actual path to your exported screenshot)*  
 
 ---
 
@@ -53,3 +52,4 @@ Here’s a preview of the Power BI dashboard interface:
 - Add forecasting models for future sales prediction.  
 - Integrate real-time data sources.  
 - Enhance customer segmentation using RFM analysis.  
+
