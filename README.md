@@ -50,10 +50,3 @@ The dashboard includes:
 - Integrate real-time data sources.  
 - Enhance customer segmentation using RFM analysis.  
 
----
-
-## 👤 Author
-- **Your Name**  
-- [LinkedIn](#) | [Email](#)
-
----
